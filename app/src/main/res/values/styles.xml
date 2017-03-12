@@ -3,25 +3,6 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="bg">@colour/bg</item>
-        <item name="primaryLight">@colour/primaryLight</item>
-
-        <item name="thickPadding">@dimen/thickPadding</item>
-        <item name="mediumPadding">@dimen/mediumPadding</item>
-        <item name="topSlack">@dimen/topSlack</item>
-        <item name="innerPad">@dimen/innerPad</item>
-        <item name="viewSize">@dimen/viewSize</item>
-        <item name="footer">@dimen/footer</item>
-        <item name="bigText">@dimen/bigText</item>
-        <item name="normalText">@dimen/normalText</item>
-
-        <item name="title">@string/title</item>
-        <item name="desc">@string/desc</item>
-        <item name="whereisthat">@string/whereisthat</item>
-        <item name="whatemail">@string/whatemail</item>
-        <item name="website">@string/website</item>
-        <item name="calltoaction">@string/calltoaction</item>
-
 
     </style>
 
