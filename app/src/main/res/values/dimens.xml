@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thickPadding">30dp</dimen>
+    <dimen name="mediumPadding">16dp</dimen>
+    <dimen name="topSlack">8dp</dimen>
+    <dimen name="innerPad">4dp</dimen>
+    <dimen name="viewSize">30dp</dimen>
+    <dimen name="footer">80dp</dimen>
+    <dimen name="bigText">32sp</dimen>
+    <dimen name="normalText">18sp</dimen>
+</resources>
