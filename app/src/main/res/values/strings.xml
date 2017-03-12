@@ -2,8 +2,8 @@
     <string name="app_name">singlescreenapp</string>
     <string name="title">Anima</string>
     <string name="desc">Wild Animal Shelter</string>
-    <string name="whereisthat">Athamantos 36, GR50100, Athens</string>
-    <string name="whatemail">anima@hotmail.com</string>
-    <string name="website">www.anima.gr</string>
+    <string name="whereisthat"><a href="https://goo.gl/maps/fE1kj6Nu8zw">Μενελάου 134, GR17676 Kallithéa, Athens</a></string>
+    <string name="whatemail">wildlifecare@gmail.com</string>
+    <string name="website">www.wild-anima.gr/</string>
     <string name="calltoaction">Found a wild animal? Call us.</string>
 </resources>

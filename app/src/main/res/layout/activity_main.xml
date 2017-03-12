@@ -51,13 +51,16 @@
                 android:src="@drawable/location" />
 
             <TextView
+                android:id="@+id/directions"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="@dimen/mediumPadding"
                 android:background="@color/primaryLight"
                 android:gravity="center_vertical"
-                android:padding="@dimen/topSlack"
+                android:padding="@dimen/innerPad"
                 android:text="@string/whereisthat"
+                android:linksClickable="true"
+                android:textColorLink="@color/bg"
                 android:textColor="@color/bg" />
 
         </LinearLayout>
@@ -98,9 +101,7 @@
             <ImageView
                 android:layout_width="@dimen/viewSize"
                 android:layout_height="@dimen/viewSize"
-                android:src="@drawable/webpage"
-                android:autoLink="web"
-                android:textColorLink="@color/bg"/>
+                android:src="@drawable/webpage"/>
 
             <TextView
                 android:layout_width="wrap_content"
@@ -110,6 +111,9 @@
                 android:gravity="center_vertical"
                 android:padding="@dimen/innerPad"
                 android:text="@string/website"
+                android:autoLink="web"
+                android:linksClickable="true"
+                android:textColorLink="@color/bg"
                 android:textColor="@color/bg" />
 
         </LinearLayout>
